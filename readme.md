@@ -1,6 +1,16 @@
 # Astra S使用简介
 参考链接：https://blog.csdn.net/cau_weiyuhu/article/details/128533386
 
+主要步骤：
+
+1. 下载源码编译，具体细节见参考连接
+```
+cd ~/AstraS_ws/src
+git clone https://github.com/orbbec/ros_astra_camera
+
+```
+
+
 
 
 
